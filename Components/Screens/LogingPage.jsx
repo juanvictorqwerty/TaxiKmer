@@ -57,7 +57,6 @@ export default function LoginPage() {
       </TouchableOpacity>
 
       <Text style={styles.linkText}>
-        Don’t have an account? <Text style={styles.link}>Click here</Text>
       </Text>
     </ScrollView>
   );
